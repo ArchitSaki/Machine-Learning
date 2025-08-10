@@ -25,16 +25,6 @@ Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
 
 Tools: Jupyter Notebook
 
-🚀 How to Run
-Clone this repository
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/machine-learning-projects.git
-Open a project folder
-
-Run the Jupyter Notebook or Python file
 
 📫 Connect with Me
 www.linkedin.com/in/archit-saki
